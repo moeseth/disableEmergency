@@ -1,0 +1,11 @@
+Package: com.w00tylab.disableEmergency
+Name: disableEmergency
+Depends: mobilesubstrate
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Disable emergency call button at lock screen. Note: you won't be able to use it in Emergency case too.
+Maintainer: moeseth
+Author: moeseth
+Twitter: twitter.com/moeseth
+MyWebsite: http://itunes.apple.com/us/artist/w00ty-lab/id399642346
+Section: Tweaks

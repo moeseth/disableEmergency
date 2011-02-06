@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = remove;
+		cell = PSLinkCell;
+		detail = removeListController;
+		icon = "remove.png";
+		isController = 1;
+		label = disableEmergency;
+	};
+}
